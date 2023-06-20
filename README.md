@@ -28,7 +28,7 @@
 
 # Hello Rails React <a name="about-project"></a>
 
-**Hello Rails React** is a startup template for a Rails API backend and a React frontend.
+**Hello Rails React** is a rails API that serves as a backend for the [Hello Rails React](https://github.com/zeph180/hello-rails-react) project. It is a simple rails API that serves a single endpoint that returns a JSON response.
 
 
 # 🛠 Built With <a name="built-with"></a>
